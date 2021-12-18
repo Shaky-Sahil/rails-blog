@@ -1,5 +1,7 @@
 # README
 
+A simple blog website made to practically learn how routers, controllers, and views work in ruby on rails.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
